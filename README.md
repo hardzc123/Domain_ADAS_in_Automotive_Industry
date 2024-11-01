@@ -150,3 +150,11 @@ Planning: UniAD, DIPP, DTPP, Para-Drive, VAD, QCNet, Attention is All You Need, 
 nGPT
 
 Foundation Reinforcement Learning: towards Embodied Generalist Agents with Foundation Prior Assistance
+
+
+## Open Source Tool
+HighywayEnv: A minimalist environment for decision-making in autonomous driving
+https://github.com/Farama-Foundation/HighwayEnv
+
+
+## Open Source Data
