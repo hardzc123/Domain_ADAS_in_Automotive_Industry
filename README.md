@@ -94,3 +94,52 @@ common parameters:
 1. GDPR
 2. ISO 26262
 3. ASPICE
+
+## Papers
+### A Survey on Multimodal Large Language Models for Autonomous Driving （2023）
+https://arxiv.org/abs/2311.12320
+
+
+
+ ### Drive Like a Human: Rethinking Autonomous Driving with Large Language Models (2023)
+https://arxiv.org/abs/2307.07162
+
+
+### Distilling the Knowledge in a Neural Network (2015)
+https://arxiv.org/abs/1503.02531
+
+### CaspNet
+
+### UniAD
+
+### Attention is all you need
+
+### Wayformer
+
+
+
+
+
+DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving (2023) https://arxiv.org/abs/2312.09245
+
+DriveVLM: The Convergence of Vision and Language Models for Autonomous Driving (2024) https://arxiv.org/abs/2402.12289
+
+“Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment” （2024）https://arxiv.org/abs/2410.15281
+
+
+“LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving” （2023）https://arxiv.org/abs/2310.03026
+
+
+
+
+https://www.jiqizhixin.com/articles/2023-12-18-4
+
+
+Planning: UniAD, DIPP, DTPP, Para-Drive, VAD, QCNet, Attention is All You Need, Wayformer
+
+3D Reconstruction: SCube
+
+
+nGPT
+
+Foundation Reinforcement Learning: towards Embodied Generalist Agents with Foundation Prior Assistance
