@@ -118,6 +118,10 @@ https://arxiv.org/abs/1503.02531
 
 
 
+ GPT-Driver [110] reformulated motion planning as a language modeling problem and utilized LLM
+to describe highly precise trajectory coordinates and its internal decision-making process in natural language in motion planning. SurrealDriver [68] simulated MLLM-based
+generative driver agents that can perceive complex traffic
+scenarios and generate corresponding driving maneuvers.
 
 
 DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving (2023) https://arxiv.org/abs/2312.09245
