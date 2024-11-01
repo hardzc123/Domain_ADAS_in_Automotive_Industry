@@ -139,6 +139,7 @@ Planning: UniAD, DIPP, DTPP, Para-Drive, VAD, QCNet, Attention is All You Need, 
 
 3D Reconstruction: SCube
 
+![image](https://github.com/user-attachments/assets/ebee81bf-c095-40c8-b6db-4441b824e22e)
 
 nGPT
 
