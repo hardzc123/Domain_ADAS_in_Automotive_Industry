@@ -130,6 +130,8 @@ DriveVLM: The Convergence of Vision and Language Models for Autonomous Driving (
 “LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving” （2023）https://arxiv.org/abs/2310.03026
 
 
+The Waymo Open Sim Agents Challenge
+https://arxiv.org/abs/2305.12032
 
 
 https://www.jiqizhixin.com/articles/2023-12-18-4
